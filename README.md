@@ -35,6 +35,9 @@ For Example, when you look at the sound waves of words _abstract**ed**_ and _edu
 <img align="left" height="400px" width="400px" src="./img/abstracted.png">
 <img align="right" height="400px" width="400px" src="./img/educated.png">
 
+
+
+
 <p>The common thing in both the words is **ed** at the end. And this is clearly getting reflected in the waves (Region in red circle).</p>
 
 
