@@ -80,4 +80,31 @@ The common thing in both words is **ed** at the end. And this is clearly getting
 
 Another example is the words ending with **ing**
 
+<img align="left" height="400px" width="400px" src="./img/fishing.png">
+<img align="right" height="400px" width="400px" src="./img/packing.png">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+We use this concept to determine whether the given words are similar or not.
+
+
+## Future Scope
+Right now, our code only works on the words which have similar endings. Further addition can be done to detect the similarity not just at the end, but anywhere in between the two words.
+
 
