@@ -32,3 +32,6 @@
 
 For Example, when you look at the sound waves of words _abstract**ed**_ and _educat**ed**_
 
+<img align="left" height="400px" width="400px" src="./img/abstracted.png">
+<img align="right" height="400px" width="400px" src="./img/educated.png">
+
