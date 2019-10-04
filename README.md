@@ -22,4 +22,12 @@
 ## How it works
 
 <p>Words which sound similar have relatively similar wave in their corresponding region.</p> 
-For Example, when you look at the sound waves of words _abstrac_
+
+
+
+
+
+
+
+
+For Example, when you look at the sound waves of words _abstract**ed**_ and _educat**ed**_
