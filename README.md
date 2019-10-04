@@ -6,8 +6,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/license/sushantPatrikar/WaveCompartor">
-  <a href="https://www.codefactor.io/repository/github/sushantpatrikar/wavecompartor"><img src="https://www.codefactor.io/repository/github/sushantpatrikar/wavecompartor/badge" alt="CodeFactor" /></a>
-  <img src="https://img.shields.io/github/issues-pr/sushantPatrikar/WaveCompartor">
+  <a href="https://www.codefactor.io/repository/github/sushantpatrikar/wavecomparator"><img src="https://www.codefactor.io/repository/github/sushantpatrikar/wavecomparator/badge" alt="CodeFactor" /></a>
+  <img src="https://img.shields.io/github/issues-pr/sushantPatrikar/WaveComparator">
   <img src="https://img.shields.io/github/stars/sushantPatrikar/WaveComparator">
   <img src="https://img.shields.io/github/forks/sushantPatrikar/WaveComparator">
   <img src="https://img.shields.io/github/issues/sushantPatrikar/WaveComparator">
