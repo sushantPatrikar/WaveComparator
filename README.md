@@ -15,3 +15,10 @@
 
 <h4 align="center">Compares two sound waves to determine whether they are similar sounding or not.</h4>
 <hr>
+
+
+
+
+## How it works
+
+<p>Words which sound similar have relatively similar wave in their corresponding region.</p> 
