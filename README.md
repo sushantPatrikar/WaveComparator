@@ -12,3 +12,6 @@
   <img src="https://img.shields.io/github/forks/sushantPatrikar/WaveComparator">
   <img src="https://img.shields.io/github/issues/sushantPatrikar/WaveComparator">
 </div>
+
+<h4 align="center">Compares two sound waves to determine whether they are similar sounding or not.</h4>
+<hr>
