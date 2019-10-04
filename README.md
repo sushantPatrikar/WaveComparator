@@ -60,6 +60,23 @@ The common thing in both words is **ed** at the end. And this is clearly getting
 <img align="left" height="400px" width="400px" src="./img/abstracted-marked.png">
 <img align="right" height="400px" width="400px" src="./img/educated-marked.png">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Another example is the words ending with **ing**
 
