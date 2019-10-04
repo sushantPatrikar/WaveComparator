@@ -22,4 +22,4 @@
 ## How it works
 
 <p>Words which sound similar have relatively similar wave in their corresponding region.</p> 
-For Example, when you look at the sound waves of words *abstract**ed**.*
+For Example, when you look at the sound waves of words _abstrac_
