@@ -104,7 +104,6 @@ Another example is the words ending with **ing**
 We use this concept to determine whether the given words are similar or not.
 
 ## Authors
-## Authors
   - Sushant Patrikar - [sushantPatrikar](https://github.com/sushantPatrikar)
   - Yash Sharangpani - [yash-sharangpani](https://github.com/yash-sharangpani)
 
