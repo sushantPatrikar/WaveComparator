@@ -103,6 +103,11 @@ Another example is the words ending with **ing**
 
 We use this concept to determine whether the given words are similar or not.
 
+## Authors
+## Authors
+  - Sushant Patrikar - [sushantPatrikar](https://github.com/sushantPatrikar)
+  - Yash Sharangpani - [yash-sharangpani](https://github.com/yash-sharangpani)
+
 
 ## Future Scope
 Right now, our code only works on the words which have similar endings. Further addition can be done to detect the similarity not just at the end, but anywhere in between the two words.
